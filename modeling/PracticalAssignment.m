@@ -1,5 +1,4 @@
-%% Filtering and System Identification
-% Practical Assignment
+
 
 clc; close all; clear all;
 global R22 Matrix XsN R32 S Phis1N V s  C A W R Phi0sN PhissN
